@@ -8,7 +8,10 @@ Rachel
 Catenia
 
 ## Django Tutorial:
-Source: [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&feature=youtu.be)
+1. [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y&feature=youtu.be)
+
+## Github Link:
+1. https://github.com/robincunanan/cna337_django
 
 ## Tasks assigned:
 ###Robin
@@ -33,4 +36,8 @@ Source: [How to Build an E-commerce Website with Django and Python](https://www.
 3. Click the repository tab on the top and select "Pull"
 
 ### How to push to Github
-1.  
+1. Close out Pycharm 
+2. Launch Github Desktop
+3. In the Summary (required) field input your name + "Update" then commit to master
+4. Click the repository tab on the top and select "Push"
+5. Verify changes on Github 
