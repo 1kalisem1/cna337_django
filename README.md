@@ -13,7 +13,7 @@
 1. https://github.com/robincunanan/cna337_django
 
 ## Tasks assigned:
-###Robin
+### Robin
 1. (0:00:00) Setup and project configuration 
 2. (0:16:55) Adding items to a cart 
 3. (0:54:09) Improving the UI 
